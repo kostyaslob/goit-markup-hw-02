@@ -1,6 +1,6 @@
 body {
-    font-family: "Roboto", "Raleway", sans-serif;
-    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
     background-color: #FFFFFF;
     line-height: 1.5;
 
@@ -46,10 +46,6 @@ a {
 .header-nav-link:hover,
 .header-nav-link:focus {
     color:#404bbf
-}
-
-.studio:active {
-    text-decoration: underline;
 }
 
 .header-address {
@@ -221,7 +217,7 @@ a {
 }
 
 .footer-logo {
-    font-family: "Raleway, sans-serif";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
